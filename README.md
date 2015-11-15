@@ -6,8 +6,8 @@ Bring the Web to your phone offline.
 
 ### How do I get set up? ###
 
-* Install .crx file found in Build/ to Chrome
-* To Install go to chrome://extensions and drag and drop .crx file
+* Install .crx file found in `Build/` to Chrome
+* To Install go to <chrome://extensions> and drag and drop `TextMe.crx` file
 * Accept permissions
 
 ### Who do I talk to? ###
