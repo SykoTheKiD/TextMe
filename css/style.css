@@ -1,0 +1,14 @@
+html, body{
+	width: 400px;
+	height: 400px;
+}
+.content{
+	padding:10px;
+	padding-top: 30px;
+}
+
+#status{
+	margin-top: 30px;
+	padding:50px;
+	font-size: 130%;
+}
