@@ -45,7 +45,7 @@ function sendMessage() {
     status.innerHTML = "Sending Text to " + phoneNumber + "...";
     $.ajax({
         type: "POST",
-        url: 'http://jaysyko.com/projects/TextMe/sendMessage',
+        url: 'https://api.jaysyko.com/projects/TextMe/sendMessage',
         data: {
             phoneNumber: phoneNumber,
             message: messageArea
