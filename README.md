@@ -1,15 +1,14 @@
-# TextMe #
+# TextMe
 
-Bring the Web to your phone offline.
+<img src="https://jaysyko.com/img/sms.png" height=250 width=250>
 
-## Twilio and Server Information has not been included in public repo
+## Bring the Web to your phone offline!
+
+## Twilio Information has not been included in public repo
 
 ### How do I get set up? ###
 
 * Install .crx file found in `Build/` to Chrome
 * To Install go to <chrome://extensions> and drag and drop `TextMe.crx` file
 * Accept permissions
-
-### Who do I talk to? ###
-
-* Jay Syko
+* Enjoy!
