@@ -12,3 +12,5 @@
 * To Install go to <chrome://extensions> and drag and drop `TextMe.crx` file
 * Accept permissions
 * Enjoy!
+
+
