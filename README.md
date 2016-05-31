@@ -1,6 +1,6 @@
 # TextMe
 
-[Imgur](http://i.imgur.com/jnxmYrR.png)
+<img src="http://i.imgur.com/jnxmYrR.png" height=250 width=250>
 
 ## Bring the Web to your phone offline!
 
