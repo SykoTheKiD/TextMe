@@ -1,6 +1,6 @@
 # TextMe
 
-<img src="https://jaysyko.com/img/sms.png" height=250 width=250>
+[Imgur](http://i.imgur.com/jnxmYrR.png)
 
 ## Bring the Web to your phone offline!
 
